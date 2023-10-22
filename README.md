@@ -11,3 +11,7 @@
   - [ ] 完成價量資料雲端資料庫爬蟲
 - [ ] 完善安裝說明文件
 - [ ] 跨平台版
+
+***
+#### 資源
+- talib for python 11 Windows Whlee安裝檔來源：[官方issue網民Dev-iL提供](https://github.com/TA-Lib/ta-lib-python/issues/127#issuecomment-1692950521)
